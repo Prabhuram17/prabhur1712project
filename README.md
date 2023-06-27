@@ -1,4 +1,4 @@
-# ✨ Glory Luxe  ✨
+# ✨ Gloryluxe  ✨
 
 This is a web based application developed for health and beauty related  based website in india
 
