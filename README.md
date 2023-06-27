@@ -6,7 +6,7 @@ This is a web based application developed for health and beauty related  based w
 
 
 **Project Link** - https://yellow-dune-0826b1900.3.azurestaticapps.net/
-**Project demo video link** - 
+**Project demo video link** - https://youtu.be/6q28I-eEdjQ
 
 ## Azure technologies used for Project
 - Static web apps
